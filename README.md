@@ -1,7 +1,8 @@
 # GANs
 
-<div center>
-    <iframe src="https://giphy.com/embed/WDxIU35kIgtOX1Rq4i" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/face-morph-twist-WDxIU35kIgtOX1Rq4i">via GIPHY</a></p>
+## Assignment files and related notes from the GAN specialization by Deeplearning.ai on Coursera.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WDxIU35kIgtOX1Rq4i/giphy.gif" width="200"/>
 </div>
 
-Assignment files and related notes from the GAN specialization by Deeplearning.ai on Coursera.
